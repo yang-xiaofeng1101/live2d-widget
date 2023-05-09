@@ -1,4 +1,5 @@
 /*!
+ *
  * Live2D Widget
  * https://github.com/stevenjoezhang/live2d-widget
  */
